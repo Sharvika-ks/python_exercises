@@ -1,7 +1,6 @@
 #Write a program to print all the unique combinations of 2 digits from 1 to 4. Repetion not allowed
 
-
-
+#author : Sharvika KS
 print_value = []
 
 #Creating two lists with the values 1-4
