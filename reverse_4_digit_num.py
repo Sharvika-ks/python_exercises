@@ -1,11 +1,9 @@
 try:
-
     number = int(input("Enter a four digit number: "))
-    result = 0
-    var1 = 1000
-    sum_of_squares = 0 
-
     if number<10000 and number>999:
+        result = 0
+        var1 = 1000
+        sum_of_squares = 0
 
         for i in range(4):
             num2 = number%10
